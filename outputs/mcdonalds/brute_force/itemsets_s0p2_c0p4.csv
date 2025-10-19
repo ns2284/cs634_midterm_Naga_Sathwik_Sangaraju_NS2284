@@ -1,0 +1,13 @@
+size,itemset,support
+1,Fries,0.8
+1,Big Mac,0.72
+1,Coke,0.64
+1,McFlurry,0.24
+1,Cheeseburger,0.2
+1,Iced Coffee,0.2
+2,Big Mac; Fries,0.56
+2,Coke; Fries,0.52
+2,Big Mac; Coke,0.44
+2,Big Mac; McFlurry,0.2
+2,Fries; McFlurry,0.2
+3,Big Mac; Coke; Fries,0.36

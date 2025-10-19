@@ -1,0 +1,15 @@
+LHS,RHS,support(X),confidence
+McFlurry,Big Mac,0.2,0.8333
+McFlurry,Fries,0.2,0.8333
+Big Mac; Coke,Fries,0.36,0.8182
+Coke,Fries,0.52,0.8125
+Big Mac,Fries,0.56,0.7778
+Fries,Big Mac,0.56,0.7
+Coke; Fries,Big Mac,0.36,0.6923
+Coke,Big Mac,0.44,0.6875
+Fries,Coke,0.52,0.65
+Big Mac; Fries,Coke,0.36,0.6429
+Big Mac,Coke,0.44,0.6111
+Coke,Big Mac; Fries,0.36,0.5625
+Big Mac,Coke; Fries,0.36,0.5
+Fries,Big Mac; Coke,0.36,0.45

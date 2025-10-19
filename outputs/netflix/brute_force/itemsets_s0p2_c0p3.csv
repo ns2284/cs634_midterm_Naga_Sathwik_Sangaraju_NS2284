@@ -1,0 +1,10 @@
+size,itemset,support
+1,Lucifer,0.44
+1,Friends,0.32
+1,Breaking Bad,0.28
+1,Money Heist,0.28
+1,The Witcher,0.28
+1,Dark,0.2
+1,Peaky Blinders,0.2
+1,The Crown,0.2
+2,Friends; Lucifer,0.2

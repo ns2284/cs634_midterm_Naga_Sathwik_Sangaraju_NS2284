@@ -1,0 +1,10 @@
+support,itemsets
+0.28,frozenset({'Breaking Bad'})
+0.2,frozenset({'Dark'})
+0.32,frozenset({'Friends'})
+0.44,frozenset({'Lucifer'})
+0.28,frozenset({'Money Heist'})
+0.2,frozenset({'Peaky Blinders'})
+0.2,frozenset({'The Crown'})
+0.28,frozenset({'The Witcher'})
+0.2,"frozenset({'Lucifer', 'Friends'})"

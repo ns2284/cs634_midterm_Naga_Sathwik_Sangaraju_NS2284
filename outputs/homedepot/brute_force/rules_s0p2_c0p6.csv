@@ -1,0 +1,5 @@
+LHS,RHS,support(X),confidence
+Paint Brush,Hammer,0.28,1.0
+Safety Gloves,Drill Machine,0.2,1.0
+Nails Pack,Hammer,0.28,0.875
+Toolbox,Hammer,0.24,0.75

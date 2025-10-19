@@ -1,0 +1,2 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'Friends'}),frozenset({'Lucifer'}),0.2,0.625,1.4204545454545454

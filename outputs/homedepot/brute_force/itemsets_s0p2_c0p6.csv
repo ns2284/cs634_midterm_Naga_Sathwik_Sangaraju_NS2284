@@ -1,0 +1,13 @@
+size,itemset,support
+1,Hammer,0.68
+1,Drill Machine,0.44
+1,Nails Pack,0.32
+1,Toolbox,0.32
+1,Paint Brush,0.28
+1,Safety Gloves,0.2
+1,Screwdriver Set,0.2
+1,Wrench Set,0.2
+2,Hammer; Nails Pack,0.28
+2,Hammer; Paint Brush,0.28
+2,Hammer; Toolbox,0.24
+2,Drill Machine; Safety Gloves,0.2
